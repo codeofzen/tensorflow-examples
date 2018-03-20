@@ -4,3 +4,5 @@
 saved_model/
 tmp-training-checkpoints/
 tf_estimator_flask/
+
+.vscode/
